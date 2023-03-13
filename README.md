@@ -1,2 +1,3 @@
 # CityHockeyAssociation-repo
-Creation and manipulation of Database using SQL 
+
+Creation and manipulation of Database using SQL.
